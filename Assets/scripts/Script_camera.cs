@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+ /* Uparrow=up, downarrow=down, leftarrow=turn left, rightarrow= turn right*/
+
 public class Script_camera : MonoBehaviour
 {
     public GameObject obj;
